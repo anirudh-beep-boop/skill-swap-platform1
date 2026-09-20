@@ -3,7 +3,7 @@
 // File path: js/db.js
 // ============================================================
 // [STUDENT CONFIG]: Paste your Google Apps Script Web App URL from deployment
-const API_URL = 'https://script.google.com/macros/s/AKfycbzF7-mEOepPUu8gwENqe0mWDyi9VgIvxNZHO7mnQyyMnExc1DrYFSzmAZI3VeC5nibw/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbwo_uP5l_FCzFItdSsen8GwoEphxemBIAwnClU6NVaKbPqyc_ibMafPZx6uLx3aAMqlwA/exec';
 class SkillSwapDB {
 // Sends an HTTP POST request to Google Apps Script and handles server errors.
 static async _callAPI(action, data) {
